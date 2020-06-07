@@ -1,1 +1,1 @@
-# AWS Solution Architect Associate [Accelerate]
+# AWS Solution Architect Associate [Accelarate]
